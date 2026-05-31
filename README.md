@@ -1,6 +1,6 @@
 # About Me
 
-I am a 3rd-year B.Tech IT student focused on Full Stack Development and improving my programming skills.
+I am a B.Tech IT student focused on Full Stack Development and improving my programming skills.
 
 ## Current Focus
 - Building projects using Python, Java, HTML, CSS, and JavaScript  
